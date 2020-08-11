@@ -1,2 +1,2 @@
-# link_prediction
+# link-prediction
 Performing link prediction on graphs using graph embeddings technique
